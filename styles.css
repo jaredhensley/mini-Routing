@@ -1,0 +1,42 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  font-family: 'Roboto';
+}
+
+.menu {
+  width: 200px;
+  height: 100vh;
+  float: left;
+  background: #e2e2e2;
+}
+
+a {
+  text-decoration: none;
+  color: #2c3e50;
+}
+
+a:visited {
+  color: #2c3e50;
+}
+
+li {
+  list-style: none;
+}
+
+.view-container {
+  text-align: center;
+}
+
+.view-container h1 {
+  margin-top: 0;
+}
+
+.parent-product {
+  background-color: #3498db;
+  text-align: center;
+  margin: 20px 0px 0px 0px;
+}
