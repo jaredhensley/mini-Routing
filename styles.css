@@ -38,8 +38,11 @@ li {
 .parent-product {
   background-color: #3498db;
   text-align: center;
+<<<<<<< HEAD
 }
 
 .parent-product h1 {
   margin-top: 0;
+=======
+>>>>>>> master
 }
